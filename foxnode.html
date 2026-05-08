@@ -218,7 +218,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <h2>Minecraft Hosting</h2>
 <div class="grid">
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747272638992524/minecraft.png?ex=69f5ebfd&is=69f49a7d&hm=3b440de1ee4144d561ba20af3b9e2d91f681446b7bc5ee6c8af5062877ceb408&=&format=webp&quality=lossless&width=555&height=416">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=zix0MQ">
 <h3>🟢 Starter</h3>
 <p class="desc">1GB RAM • 1 vCPU • 20GB SSD • 1–10 players</p>
 <div class="price">€1.55</div>
@@ -226,7 +226,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747272638992524/minecraft.png?ex=69f5ebfd&is=69f49a7d&hm=3b440de1ee4144d561ba20af3b9e2d91f681446b7bc5ee6c8af5062877ceb408&=&format=webp&quality=lossless&width=555&height=416">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🔵 Standard</h3>
 <p class="desc">2GB RAM • 2 vCPU • 50GB SSD • 10–30 players</p>
 <div class="price">€3.50</div>
@@ -234,7 +234,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747272638992524/minecraft.png?ex=69f5ebfd&is=69f49a7d&hm=3b440de1ee4144d561ba20af3b9e2d91f681446b7bc5ee6c8af5062877ceb408&=&format=webp&quality=lossless&width=555&height=416">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🟣 Pro</h3>
 <p class="desc">4GB RAM • 4 vCPU • 100GB SSD • 30–80 players</p>
 <div class="price">€6.50</div>
@@ -242,7 +242,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747272638992524/minecraft.png?ex=69f5ebfd&is=69f49a7d&hm=3b440de1ee4144d561ba20af3b9e2d91f681446b7bc5ee6c8af5062877ceb408&=&format=webp&quality=lossless&width=555&height=416">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🔴 Ultra</h3>
 <p class="desc">8GB RAM • 6 vCPU • 200GB SSD • 80–150 players</p>
 <div class="price">€9</div>
@@ -256,7 +256,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <h2>FiveM Hosting</h2>
 <div class="grid">
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499783909494227169/fivem.jpg?ex=69f60e1c&is=69f4bc9c&hm=30c93b623f54cd86d10516516355b63aaa9567e72ddd4f8743dea93c665b3f2b&=&format=webp&width=398&height=199">
+<img src="c:\Users\yusei\Downloads\fivem.jpg">
 <h3>🟢 Starter</h3>
 <p class="desc">1GB RAM • 1 vCPU • 30GB SSD</p>
 <div class="price">€3</div>
@@ -264,7 +264,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499783909494227169/fivem.jpg?ex=69f60e1c&is=69f4bc9c&hm=30c93b623f54cd86d10516516355b63aaa9567e72ddd4f8743dea93c665b3f2b&=&format=webp&width=398&height=199">
+<img src="c:\Users\yusei\Downloads\fivem.jpg">
 <p class="desc">2GB RAM • 2 vCPU • 60–80GB SSD</p>
 <h3>🔵 Standard</h3>
 <div class="price">€5</div>
@@ -272,7 +272,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499783909494227169/fivem.jpg?ex=69f60e1c&is=69f4bc9c&hm=30c93b623f54cd86d10516516355b63aaa9567e72ddd4f8743dea93c665b3f2b&=&format=webp&width=398&height=199">
+<img src="c:\Users\yusei\Downloads\fivem.jpg">
 <h3>🟣 Pro</h3>
 <p class="desc">4GB RAM • 4 vCPU • 120GB SSD</p>
 <div class="price">€10</div>
@@ -286,7 +286,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <h2>MTA Hosting</h2>
 <div class="grid">
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747105315622972/Best-Multi-Theft-Auto-Game-Server.jpg?ex=69f5ebd5&is=69f49a55&hm=86196c44c696b2b6c8162036a834efc1c41a0bdac57154a67a1d96195cb794ec&=&format=webp&width=1529&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🟢 Starter</h3>
 <p class="desc">1GB RAM • 1 vCPU • 20–30GB SSD • 10–30 slots</p>
 <div class="price">€2</div>
@@ -294,7 +294,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747105315622972/Best-Multi-Theft-Auto-Game-Server.jpg?ex=69f5ebd5&is=69f49a55&hm=86196c44c696b2b6c8162036a834efc1c41a0bdac57154a67a1d96195cb794ec&=&format=webp&width=1529&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🔵 Standard</h3>
 <p class="desc">2GB RAM • 2 vCPU • 50GB SSD • 30–60 slots</p>
 <div class="price">€4</div>
@@ -302,7 +302,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747105315622972/Best-Multi-Theft-Auto-Game-Server.jpg?ex=69f5ebd5&is=69f49a55&hm=86196c44c696b2b6c8162036a834efc1c41a0bdac57154a67a1d96195cb794ec&=&format=webp&width=1529&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🟣 Pro</h3>
 <p class="desc">4GB RAM • 4 vCPU • 100GB SSD • 60–120 slots</p>
 <div class="price">€8</div>
@@ -310,7 +310,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747105315622972/Best-Multi-Theft-Auto-Game-Server.jpg?ex=69f5ebd5&is=69f49a55&hm=86196c44c696b2b6c8162036a834efc1c41a0bdac57154a67a1d96195cb794ec&=&format=webp&width=1529&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQAIE9tlIRBsRoOYzvRKqKd8AdEOItqaDezp-qyXap7POdw?e=8vKcCs">
 <h3>🔴 Ultra</h3>
 <p class="desc">8GB RAM • 6 vCPU • 150GB SSD • 70-150 slots</p>
 <div class="price">€16</div>
@@ -324,7 +324,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <h2>VPS Hosting</h2>
 <div class="grid">
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747219035914462/vpsbasic.png?ex=69f5ebf0&is=69f49a70&hm=fe58e458e814651131c87c78af7f99ecfa535f12a9ef6bc2ec4fda9d51008077&=&format=webp&quality=lossless&width=888&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQDaWquKgmseTIzE2Oqt8i6UAVNHQ1us4h2t5JBqL5ED-_8?e=7rS25g">
 <h3>🟢 Basic</h3>
 <p class="desc">1 vCPU • 2GB RAM • 30GB SSD • 1TB Traffic</p>
 <div class="price">€3.28</div>
@@ -332,7 +332,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747220851916870/vpsstandart.png?ex=69f5ebf1&is=69f49a71&hm=d88326002d59ab2afde95280b20de3e0e8d69e0ea0b4d6c6dc19d630b0b7cac7&=&format=webp&quality=lossless&width=884&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQD9OzYmjYHZQqpisIXs4pNOAShk1vw1qfpk4Ed3kOsuj0g?e=LEEMMZ">
 <h3>🔵 Standard</h3>
 <p class="desc">2 vCPU • 4GB RAM • 60GB SSD • 2TB Traffic</p>
 <div class="price">€5.21</div>
@@ -340,7 +340,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747220063260782/vpspro.png?ex=69f5ebf1&is=69f49a71&hm=f5564c1f7bdb58b5be15689daff18c64d76703225ce92b9aa1652b098b88a306&=&format=webp&quality=lossless&width=889&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQD6uo0jqMqZQY3-aKJEwYZMAVBBFg0EopB6pyP_ggTGPFg?e=metM80">
 <h3>🟣 Pro</h3>
 <p class="desc">3 vCPU • 6GB RAM • 90GB SSD • 3TB Traffic</p>
 <div class="price">€9.64</div>
@@ -348,7 +348,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499747218549379083/ultravps.png?ex=69f5ebf0&is=69f49a70&hm=f48e15983c870ba299ca7b7e499902f7b257a704093e6027dea0f95cf121e700&=&format=webp&quality=lossless&width=884&height=860">
+<img src="https://1drv.ms/i/c/0e17cf00897b9d8a/IQBi5r6Zp5qXTJuyo19O6_LOAXbSNrv0VtMGBVtOQ07YVsI?e=kyJK0P">
 <h3>🔴 Ultra</h3>
 <p class="desc">4 vCPU • 8GB RAM • 120GB SSD • 4TB Traffic</p>
 <div class="price">€15.05</div>
@@ -362,7 +362,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <h2>Hytale Hosting</h2>
 <div class="grid">
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499769866264248401/hytalehost.png?ex=69f60108&is=69f4af88&hm=b4b37946c7ac984f743bf8d32cf8d6aec85fa46670baef0bc276dbe0c424a1f0&=&format=webp&quality=lossless&width=1290&height=860">
+<img src="c:\Users\yusei\Downloads\hytalehost.png">
 <h3>Starter</h3>
 <p class="desc">4GB RAM Съхранение: 30 GB</p>
 <div class="price">€4.55</div>
@@ -370,7 +370,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499769866264248401/hytalehost.png?ex=69f60108&is=69f4af88&hm=b4b37946c7ac984f743bf8d32cf8d6aec85fa46670baef0bc276dbe0c424a1f0&=&format=webp&quality=lossless&width=1290&height=860">
+<img src="c:\Users\yusei\Downloads\hytalehost.png">
 <h3>Standard</h3>
 <p class="desc">6GB RAM Съхранение: 40 GB</p>
 <div class="price">€10</div>
@@ -378,7 +378,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 </div>
 
 <div class="card">
-<img src="https://media.discordapp.net/attachments/1319342473428074609/1499769866264248401/hytalehost.png?ex=69f60108&is=69f4af88&hm=b4b37946c7ac984f743bf8d32cf8d6aec85fa46670baef0bc276dbe0c424a1f0&=&format=webp&quality=lossless&width=1290&height=860">
+<img src="c:\Users\yusei\Downloads\hytalehost.png">
 <h3>Pro</h3>
 <p class="desc">8GB RAM Съхранение: 60 GB</p>
 <div class="price">€15.25</div>
