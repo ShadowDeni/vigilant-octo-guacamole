@@ -266,6 +266,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <div class="card">
 <img src="https://media.discordapp.net/attachments/1319342473428074609/1499783909494227169/fivem.jpg?ex=69f60e1c&is=69f4bc9c&hm=30c93b623f54cd86d10516516355b63aaa9567e72ddd4f8743dea93c665b3f2b&=&format=webp&width=398&height=199">
 <p class="desc">2GB RAM • 2 vCPU • 60–80GB SSD</p>
+<h3>🔵 Standard</h3>
 <div class="price">€5</div>
 <button class="btn" onclick="window.open('https://paypal.me/foxnode/5','_blank')">Order</button>
 </div>
