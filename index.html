@@ -220,7 +220,7 @@ We deliver optimized game servers and VPS solutions with instant deployment.
 <div class="card">
 <img src="https://media.discordapp.net/attachments/1319342473428074609/1499747272638992524/minecraft.png?ex=69f5ebfd&is=69f49a7d&hm=3b440de1ee4144d561ba20af3b9e2d91f681446b7bc5ee6c8af5062877ceb408&=&format=webp&quality=lossless&width=555&height=416">
 <h3>🟢 Starter</h3>
-<p class="desc">11GB RAM • 1 vCPU • 20GB SSD • 1–10 players</p>
+<p class="desc">1GB RAM • 1 vCPU • 20GB SSD • 1–10 players</p>
 <div class="price">€1.55</div>
 <button class="btn" onclick="window.open('https://paypal.me/foxnode/1.55','_blank')">Order</button>
 </div>
